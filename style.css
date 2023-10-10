@@ -1,0 +1,51 @@
+
+
+#cv
+{
+    text-align: center;
+}
+
+
+
+
+
+P
+
+{
+    color:rgb(0, 0, 0);
+    font-size: medium;
+}
+
+
+
+#nagłówek
+
+{
+
+    color:rgb(123, 142, 224);
+    font-size: xx-large;
+    text-align: center;
+}
+
+
+
+
+#szczerbatekphoto
+{
+
+    text-align: center;
+
+}
+
+
+
+#link
+{
+
+    text-align: center;
+
+}
+
+
+body { background-image: url("https://i.pinimg.com/564x/e0/15/5b/e0155bd1736acf6d216b7d7fccda7c06.jpg");
+background-repeat: no-repeat; background-size: 2000px;}
